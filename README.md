@@ -1,2 +1,3 @@
-# ChatStats
-Analysis of chats (text messages) sent on a collaboration platform (such as Whatsapp) to understand topic, context, texting behaviour and nuances, and other interesting statistics like frequency of texts, time spent etc. 
+# whatsapp-chatstats
+
+Export a conversation from WhatsApp and disover interesting statistics about what you converse about and how often you do it. Does not work for group chats as of now.
