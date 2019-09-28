@@ -13,4 +13,4 @@
 3. In the directory where you have the downloaded notebook, run "jupyter notebook". The notebook should open in a browser. 
 4. In the notebook, modify the "filepath" field to enter the path of your downloaded chat in the above section.
 5. Lastlty, from the jupyter notebook toolbar, select "Cell" and then "Run All".
-6. You should be able to see all chat statistics in the notebook itself.
+6. You should be able to see all chat statistics in the notebook itself. As of now, the plots open in a separate browser tab.
